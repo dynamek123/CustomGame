@@ -30,6 +30,7 @@ open the ConsoleApplication2.sln file and then compile the program using the com
 Control:
 The user moves around the generated board using the W, S, A, D keys that correspond
 the direction in which the character should move.
+
 #####################################################
 
 
